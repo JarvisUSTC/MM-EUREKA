@@ -84,7 +84,7 @@ This repository is built upon [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF), 
 ```shell
 git clone https://github.com/ModalMinds/MM-EUREKA.git
 cd MM-EUREKA
-pip install -e .[vllm]
+pip install -e .[vllm_latest]
 
 # install flash-attn==2.3.6:
 
